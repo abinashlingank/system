@@ -6,4 +6,5 @@
 git clone https://github.com/abinashlingank/system.git
 cd system/systemfiles
 chmod +x run.sh
+./run.sh
 ```
