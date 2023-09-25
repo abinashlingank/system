@@ -4,6 +4,6 @@
 `chmod +x run.sh`
 
 
-`git clone https://github.com/abinashlingank/system.git\n
+```git clone https://github.com/abinashlingank/system.git\n
 cd system/systemfiles\n
-chmod +x run.sh`
+chmod +x run.sh```
