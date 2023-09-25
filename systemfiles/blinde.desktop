@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/abinashlingank/systemfiles/launch.sh
+Name=Blind code
+Comment=ShopSense
+Icon=/home/abinashlingank/systemfiles/talos.jpeg
